@@ -17,9 +17,9 @@ using System.Windows.Forms;
 
 namespace sportandAthlete
 {
-    public partial class sportandTeamForm : Form
+    public partial class frmSportandTeam : Form
     {
-        public sportandTeamForm()
+        public frmSportandTeam()
         {
             InitializeComponent();
         }

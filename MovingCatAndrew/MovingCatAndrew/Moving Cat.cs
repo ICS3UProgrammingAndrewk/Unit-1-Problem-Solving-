@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace sportandAthlete
+namespace MovingCatAndrew
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace sportandAthlete
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSportandTeam());
+            Application.Run(new frmMovingCat());
         }
     }
 }

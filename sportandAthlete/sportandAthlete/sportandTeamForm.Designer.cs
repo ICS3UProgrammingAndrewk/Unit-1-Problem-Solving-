@@ -1,6 +1,6 @@
 ﻿namespace sportandAthlete
 {
-    partial class sportandTeamForm
+    partial class frmSportandTeam
     {
         /// <summary>
         /// Required designer variable.
@@ -33,11 +33,11 @@
             this.mniLiverpool = new System.Windows.Forms.ToolStripMenuItem();
             this.mniMadrid = new System.Windows.Forms.ToolStripMenuItem();
             this.mniParis = new System.Windows.Forms.ToolStripMenuItem();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.grb = new System.Windows.Forms.GroupBox();
             this.lblTeam = new System.Windows.Forms.Label();
             this.lblPlayer = new System.Windows.Forms.Label();
             this.frmsport.SuspendLayout();
-            this.groupBox1.SuspendLayout();
+            this.grb.SuspendLayout();
             this.SuspendLayout();
             // 
             // frmsport
@@ -82,16 +82,15 @@
             this.mniParis.Text = "Paris";
             this.mniParis.Click += new System.EventHandler(this.PSGFcToolStripMenuItem_Click);
             // 
-            // groupBox1
+            // grb
             // 
-            this.groupBox1.Controls.Add(this.lblTeam);
-            this.groupBox1.Controls.Add(this.lblPlayer);
-            this.groupBox1.Location = new System.Drawing.Point(108, 102);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(411, 231);
-            this.groupBox1.TabIndex = 1;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.grb.Controls.Add(this.lblTeam);
+            this.grb.Controls.Add(this.lblPlayer);
+            this.grb.Location = new System.Drawing.Point(108, 102);
+            this.grb.Name = "grb";
+            this.grb.Size = new System.Drawing.Size(411, 231);
+            this.grb.TabIndex = 1;
+            this.grb.TabStop = false;
             // 
             // lblTeam
             // 
@@ -99,9 +98,9 @@
             this.lblTeam.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTeam.Location = new System.Drawing.Point(38, 46);
             this.lblTeam.Name = "lblTeam";
-            this.lblTeam.Size = new System.Drawing.Size(155, 37);
+            this.lblTeam.Size = new System.Drawing.Size(99, 37);
             this.lblTeam.TabIndex = 1;
-            this.lblTeam.Text = "Liverpool ";
+            this.lblTeam.Text = "Team";
             this.lblTeam.Click += new System.EventHandler(this.LblTeam_Click);
             // 
             // lblPlayer
@@ -114,21 +113,21 @@
             this.lblPlayer.TabIndex = 0;
             this.lblPlayer.Text = "Player";
             // 
-            // sportandTeamForm
+            // frmSportandTeam
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.grb);
             this.Controls.Add(this.frmsport);
             this.MainMenuStrip = this.frmsport;
-            this.Name = "sportandTeamForm";
-            this.Text = "Form1";
+            this.Name = "frmSportandTeam";
+            this.Text = "Sport,Team and Athlete";
             this.Load += new System.EventHandler(this.SportandAthleteForm_Load);
             this.frmsport.ResumeLayout(false);
             this.frmsport.PerformLayout();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
+            this.grb.ResumeLayout(false);
+            this.grb.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,7 +136,7 @@
         #endregion
 
         private System.Windows.Forms.MenuStrip frmsport;
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox grb;
         private System.Windows.Forms.Label lblTeam;
         private System.Windows.Forms.Label lblPlayer;
         private System.Windows.Forms.ToolStripMenuItem mniCity;
