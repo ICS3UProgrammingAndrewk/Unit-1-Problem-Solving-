@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\bin\Debug\PizzaCostAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\bin\Debug\PizzaCostAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\bin\Debug\PizzaCostAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\obj\Debug\PizzaCostAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\obj\Debug\PizzaCostAndrew.frmPizzaCost.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\obj\Debug\PizzaCostAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\obj\Debug\PizzaCostAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\obj\Debug\PizzaCostAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\obj\Debug\PizzaCostAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-1-Problem-Solving-\PizzaCostAndrew\PizzaCostAndrew\obj\Debug\PizzaCostAndrew.pdb
